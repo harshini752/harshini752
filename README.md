@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Harshini!
 
-<!--
-**harshini752/harshini752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Graduate Student in Engineering Data Science | Aspiring Data Scientist**
 
-Here are some ideas to get you started:
+💻 I’m passionate about:
+- Natural Language Processing (NLP)
+- Deep Learning & AI
+- Data Visualization & Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- Email: yourname@gmail.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/your-link)
+- GitHub: [harshini752](https://github.com/harshini752)
+
+---
+
+## 🚀 Projects
+- 🧠 **NLP Chatbot** – Mental health support assistant using BERT.
+- 📊 **Data Visualization** – Global Development Indicators in Tableau.
+- 🤖 **Machine Learning** – Classification & predictive modeling.
+
+---
+
+## ⚡ Skills
+- Programming: Python, SQL, R
+- Libraries: TensorFlow, PyTorch, scikit-learn, Pandas
+- Tools: Git, VS Code, Tableau, Excel
+
+---
+✨ *“Data is the new oil, but insights are the fuel that drives innovation.”*
+
