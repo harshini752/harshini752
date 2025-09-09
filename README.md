@@ -8,7 +8,7 @@
 - Data Visualization & Analytics
 
 📫 How to reach me:
-- Email: harshiniratnakumar.com
+- Email: harshiniratnakumar@gmail.com
 - LinkedIn:(https://linkedin.com/in/harshini-ratnakumar)
 - GitHub: [harshini752](https://github.com/harshini752)
 
