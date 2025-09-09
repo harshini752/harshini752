@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Harshini!
+# 👋 Hi there, I'm Harshini Ratnakumar!
 
 🌟 **Graduate Student in Engineering Data Science | Aspiring Data Scientist**
 
